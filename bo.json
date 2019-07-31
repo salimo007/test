@@ -1,0 +1,12 @@
+{
+  "version": "6.5.3",
+  "objects": [
+    {
+      "id": "0db92ea0-14ca-11e9-ac69-59173a1a8eab",
+      "type": "visualization",
+      "updated_at": "2019-01-10T11:28:39.081Z",
+      "version": 2,
+      "attributes": {
+        "title": "CiudadesNube",
+        "visState": "{"title":"CiudadesNube","type":"tagcloud","params":{"scale":"linear","orientation":"single","minFontSize":18,"maxFontSize":72,"showLabel":true},"aggs":[{"id":"1","enabled":true,"type":"count","schema":"metric","params":{}},{"id":"2","enabled":true,"type":"terms","schema":"segment","params":{"field":"Pais.keyword","size":5,"order":"desc","orderBy":"1","otherBucket":false,"otherBucketLabel":"Other","missingBucket":false,"missingBucketLabel":"Missing"}}]}",
+        "uiStateJ
